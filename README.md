@@ -4,7 +4,6 @@
 I am a football analyst hired by the company Mchezopesa Ltd. to:
 
 1. Predict the result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (including rank of the respective team).
-2. Testing a Hypothesis: Whether there is difference in the means of blue cars taken in two different postal codes selected randomly.
 
 # Experimental Design
 1. Performing EDA
